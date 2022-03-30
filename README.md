@@ -1,8 +1,12 @@
 ### Hi there 👋, Hi my name is Hulo
-![](https://media3.giphy.com/media/D4zbzXKSl9tOE/giphy.gif)
-![](https://i.giphy.com/media/3o7ZeTjnp0GZfntThu/giphy.webp)
-)
+![](https://wallpapercave.com/wp/wp2757834.gif)
 
 I host game servers for fun 
+
+Skills: PYTHON / JS / HTML / CSS
+
+
+
+
 
 
