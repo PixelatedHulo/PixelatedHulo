@@ -1,5 +1,5 @@
 
-### Hi there,I am Hulo ![](https://wallpapercave.com/wp/wp2757834.gif)
+### Hi there,I am Hulo👋
 
 I host game servers for fun 
 
