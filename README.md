@@ -12,9 +12,5 @@ Skills: PYTHON / JS / HTML / CSS
 
 
 
-https://user-images.githubusercontent.com/85990620/161033125-b3f726d3-47e2-4b5b-8a89-f6935498b905.mp4
-
-
-
 
 
